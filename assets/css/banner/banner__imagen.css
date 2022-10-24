@@ -1,6 +1,5 @@
 .banner__imagen{
-    
-
+    background: url(/assets/img/banner.jpg) no-repeat center/cover;
     width: 100%;
 }
 
